@@ -1048,6 +1048,16 @@ scoreboard objectives remove minesense.mined.1046
 scoreboard objectives remove minesense.mined.1047
 scoreboard objectives remove minesense.mined.1048
 scoreboard objectives remove minesense.mined.1049
+scoreboard objectives remove minesense.mined.1050
+scoreboard objectives remove minesense.mined.1051
+scoreboard objectives remove minesense.mined.1052
+scoreboard objectives remove minesense.mined.1053
+scoreboard objectives remove minesense.mined.1054
+scoreboard objectives remove minesense.mined.1055
+scoreboard objectives remove minesense.mined.1056
+scoreboard objectives remove minesense.mined.1057
+scoreboard objectives remove minesense.mined.1058
+scoreboard objectives remove minesense.mined.1059
 scoreboard objectives remove minesense
 data remove storage minesense:data data
 tellraw @a ["",{"text":"["},{"text":"Minesense","color":"gold","clickEvent":{"action":"open_url","value":"https://github.com/Neohedron512/minesense/tree/main"},"hoverEvent":{"action":"show_text","contents":"Click to view Github Repo"}},{"text":"] Has been uninstalled!"}]
